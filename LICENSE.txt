@@ -1,1 +1,2 @@
 "just a text file"
+"license Version 1.0"
